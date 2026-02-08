@@ -1,0 +1,17 @@
+/* DARK is default */
+:root {
+  --bg: #0f172a;
+  --card: #020617;
+  --text: #e5e7eb;
+  --muted: #94a3b8;
+  --accent: #22c55e;
+}
+
+/* LIGHT overrides */
+body.light {
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --text: #020617;
+  --muted: #475569;
+  --accent: #16a34a;
+}
